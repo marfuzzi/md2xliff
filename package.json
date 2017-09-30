@@ -38,9 +38,12 @@
     "got": "^5.0.0",
     "htmlparser2": "^3.8.3",
     "is-html": "^1.1.0",
+    "lerna": "^2.2.0",
     "marked": "^0.3.5",
     "postcss": "^5.0.10",
+    "remark": "github:marfuzzi/remark#marfuzzi-remark",
     "strip": "^3.0.0",
+    "unified": "^6.1.5",
     "xamel": "^0.3.1"
   },
   "devDependencies": {
